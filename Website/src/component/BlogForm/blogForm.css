@@ -1,0 +1,20 @@
+.BlogWrapper{
+    height: 120vh;
+    background-color: aquamarine;
+}
+.blogFormWrapper{
+    height: 600px;
+    background-color: #fff;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.blogHeading{
+    font-weight: bold;
+}
+.mt30{
+    margin-top: 30px;
+}
+.text-danger{
+    text-align: left;
+}

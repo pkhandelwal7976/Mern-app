@@ -1,0 +1,50 @@
+.blogListWrapper{
+    background-color: aquamarine;
+    /* height: 100%; */
+    min-height: 100vh;
+}
+.listWrapper{
+    /* height: 100vh; */
+    /* background-color: antiquewhite; */
+}
+
+td{
+    text-align: left;
+}
+
+.GetlistWrapper{
+    background-color: #fff;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    margin-top: 60px;
+    border-radius: 20px;
+    margin-bottom: 70px;
+}
+.boldFont{
+    font-weight: bold;
+}
+.Heading{
+    height: 80px;
+    text-align: left;
+    margin: auto;
+    border-bottom: #ccc 2px  solid;
+}
+.btnheight{
+    margin-top: 20px;
+    float: right;
+}
+.noPadding{
+    padding: 0px !important;
+}
+.glyphicon-plus{
+    font-weight: 20px;
+}
+
+.text-danger{
+    font-size: 11px;
+}
+.pointer{
+    cursor: pointer;
+}
+.mt20{
+    margin-top:20px;
+}

@@ -1,0 +1,32 @@
+.loginFormWrapper{
+    height: 100vh;
+    background-color: #ddd;
+}
+.loginForm{
+    height: 400px;
+    background-color: #fff;
+    margin-top: 100px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+
+}
+.input-group{
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.loginbutton{
+    margin-top: 30px;
+}
+.padZero{
+    padding: 0px;
+}
+.heading{
+    font-weight: bold;
+}
+.mt60{
+    margin-top: 60px;
+}
+
+.boldFont{
+    font-weight: bold;
+}
